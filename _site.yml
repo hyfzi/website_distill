@@ -1,12 +1,17 @@
 name: "."
-title: "hyfzi website"
-description: |
-  hyfzi website
+title: "Home"
+description:
+  大智空间
 output_dir: "docs"
+theme: hyfzi_theme.css
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "SAS Programer"
+      menu:
+        - text: "TLF"
+        - href: TLF.html
+        - text: "ADaM"
+        - href: ADaM.html
+    - text: "Personal Life"
+      href: Personal Life.html
 output: distill::distill_article
