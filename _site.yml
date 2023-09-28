@@ -9,9 +9,11 @@ navbar:
     - text: "SAS Programer"
       menu:
         - text: "TLF"
-        - href: TLF.html
+          href: TLF.html
         - text: "ADaM"
-        - href: ADaM.html
+          href: ADaM.html
     - text: "Personal Life"
-      href: Personal Life.html
+      menu:
+        - text: "WeightLifting"
+          href: WeightLifting.html
 output: distill::distill_article
