@@ -6,15 +6,29 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-09-23T10:52:19+08:00"
+      "last_modified": "2023-09-28T08:24:46+08:00"
     },
     {
       "path": "index.html",
       "title": "大智空间",
       "author": [],
-      "contents": "\n\n          \n          \n          Home\n          \n          \n          \n          \n          SAS Programer\n           \n          ▾\n          \n          \n          TLF\n          \n          ADaM\n          \n          \n          \n          Personal Life\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              大智空间\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            欢迎光临\n            我是一名初级SAS程序员👋，喜欢跑步、举重、冲浪；\n            在这里，我将分享我的工作、学习和日常生活，主要有：\n            SAS、R和Python编程知识分享\n            SDTM和ADaM指导规范和实际运用\n            运动记录\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              大智空间\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       LinkedIn\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              欢迎光临\n              我是一名初级SAS程序员👋，喜欢跑步、举重、冲浪；\n              在这里，我将分享我的工作、学习和日常生活，主要有：\n              SAS、R和Python编程知识分享\n              SDTM和ADaM指导规范和实际运用\n              运动记录\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2023-09-23T10:58:10+08:00"
+      "contents": "\n\n          \n          \n          Home\n          \n          \n          \n          \n          SAS Programer\n           \n          ▾\n          \n          \n          TLF\n          ADaM\n          \n          \n          \n          \n          Personal Life\n           \n          ▾\n          \n          \n          WeightLifting\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              大智空间\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            欢迎光临\n            我是一名初级SAS程序员👋，喜欢跑步、举重、冲浪；\n            在这里，我将分享我的工作、学习和日常生活，主要有：\n            SAS、R和Python编程知识分享\n            SDTM和ADaM指导规范和实际运用\n            运动记录\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              大智空间\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       LinkedIn\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              欢迎光临\n              我是一名初级SAS程序员👋，喜欢跑步、举重、冲浪；\n              在这里，我将分享我的工作、学习和日常生活，主要有：\n              SAS、R和Python编程知识分享\n              SDTM和ADaM指导规范和实际运用\n              运动记录\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-09-28T08:26:09+08:00"
+    },
+    {
+      "path": "TLF.html",
+      "title": "TLF",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-09-28T08:26:09+08:00"
+    },
+    {
+      "path": "WeightLifting.html",
+      "title": "WeightLifting",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-09-28T08:26:10+08:00"
     }
   ],
-  "collections": []
+  "collections": ["TLF/TLF.json", "WeightLifting/WeightLifting.json"]
 }
