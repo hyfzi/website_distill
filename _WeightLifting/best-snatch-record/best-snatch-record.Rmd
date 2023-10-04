@@ -3,7 +3,9 @@ title: "举重各项最佳重量记录"
 date: 2023-09-28
 output:
   distill::distill_article:
-    self_contained: false
+    toc: true
+    toc_depth: 2
+    toc_float: true
 ---
 
 <!-- have to knit first if .Rmd --> 
@@ -43,7 +45,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # 后蹲 back squat  
 - 75kg  
 
-# 前蹲  
+# 前蹲 front squat
 - 60kg
 
 
