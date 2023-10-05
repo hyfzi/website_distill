@@ -80,6 +80,12 @@ h1 {
   font-size: 36px;
 }
 
+d-article h1 {
+  color: #C34A79 !important;
+  font-size: 38px;
+  line-height: 1em;
+}
+
 /*change buttons on homepage*/
 .btn-outline-dark {
     background-color: transparent; 
@@ -121,5 +127,13 @@ h1 {
 /*do not delete - this removes the scroll bar on the right hand side*/
 .vh-100 {
   height: 80vh!important;
+}
+
+.thumbnail {
+    padding: 0px!important;
+    margin: 0px!important;
+    max-width: 10%!important;
+    height: auto!important;
+    vertical-align: text-top!important;
 }
 
