@@ -1,0 +1,14 @@
+[
+  {
+    "path": "SDTM/se-domain/",
+    "title": "Subject Elements(SE)",
+    "description": "Special-Purpose Domain, One record per actual Elements per subject. 特殊目的域，每个受试者，每个实际元素，一条记录。",
+    "author": [],
+    "date": "2023-10-07",
+    "categories": [],
+    "contents": "\nSTUDYID\nDomain\nUSUBJID\nSESEQ\nETCD\nELEMENT\nTAETORD\nEPOCH\nSESTDTC\nSEENDTC\nPL110-0001\nSE\nPL110-0001-01-001\n1\nSCRN\n筛选\n1\n筛选期\n2023-01-01\n2023-01-29\nPL110-0001\nSE\nPL110-0001-01-001\n2\nPL110\n治疗\n2\n治疗期\n2023-01-30\n2023-06-14\nPL110-0001\nSE\nPL110-0001-01-001\n3\nFU\n随访\n3\n随访期\n2023-06-15\n2023-08-14\n变量释义\n具体字段衍生规则\n不同是EPOCH下，SESTDTC、SEENDTC是怎么规定的？\nSE Value Level Metadate\nSE Domain code\n涉及的raw data:\nStep1\nStep2\nStep3\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-10-07T23:01:15+08:00",
+    "input_file": {}
+  }
+]

@@ -8,10 +8,16 @@ navbar:
   right:
     - text: "SAS Programer"
       menu:
+        - text: "Program"
+          href: Program.html
         - text: "TLF"
           href: TLF.html
+        - text: "SDTM"
+          href: SDTM.html
         - text: "ADaM"
           href: ADaM.html
+        - text: "Other"
+          href: Other.html
     - text: "Personal Life"
       menu:
         - text: "WeightLifting"

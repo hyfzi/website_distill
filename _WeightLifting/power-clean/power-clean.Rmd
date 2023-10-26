@@ -1,0 +1,15 @@
+---
+title: "Power Clean 高翻"
+date: 2023-10-09
+output:
+  distill::distill_article:
+    self_contained: false
+---
+# Power Clean 高翻
+一直佛系的学习举重，昨晚忽然刷到举重的小视频，里面介绍了clean和power clean的区别，clean，也就是下蹲翻，在接住杠铃的时候，我们的大腿是低于以膝盖为一个点，衍生一个平行于地面的水平面。而power clean与之相反，power clean在接杠后的角度是高于上述的水平面。 
+
+*下面的视频，是我做的power clean*
+<video controls width="640" height="360">
+  <source src="power_clean.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

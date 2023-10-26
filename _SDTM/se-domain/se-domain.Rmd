@@ -1,0 +1,35 @@
+---
+title: "Subject Elements(SE)"
+description: Special-Purpose Domain, One record per actual Elements per subject. 特殊目的域，每个受试者，每个实际元素，一条记录。
+date: 2023-10-07
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+| STUDYID| Domain | USUBJID | SESEQ | ETCD | ELEMENT | TAETORD | EPOCH | SESTDTC | SEENDTC |
+|-------|--------|-------|-------|------|---------|---------|-------|---------|---------|
+| PL110-0001 | SE | PL110-0001-01-001| 1 | SCRN | 筛选 | 1 | 筛选期 | 2023-01-01 | 2023-01-29 |
+| PL110-0001 | SE | PL110-0001-01-001| 2 | PL110 | 治疗 | 2 | 治疗期 | 2023-01-30 | 2023-06-14|
+| PL110-0001 | SE | PL110-0001-01-001| 3 | FU | 随访 | 3 | 随访期 | 2023-06-15 | 2023-08-14|
+
+# 变量释义
+
+
+# 具体字段衍生规则
+## 不同是EPOCH下，SESTDTC、SEENDTC是怎么规定的？
+SE Value Level Metadate
+
+
+# SE Domain code
+涉及的raw data: 
+
+## Step1
+
+## Step2
+
+## Step3
+
+
+
+

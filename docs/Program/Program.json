@@ -1,0 +1,14 @@
+[
+  {
+    "path": "Program/storing-and-processing-text/",
+    "title": "Using SAS Functions with Macro Variables",
+    "description": "记录SAS Certified Professional Prep Guide-Advanced Programming Using SAS 9.4 书中，SAS Macro Language Processing章节，相关宏函数使用的英文介绍对应的中文理解。",
+    "author": [],
+    "date": "2023-10-06",
+    "categories": [],
+    "contents": "\n\nContents\nThe %BQUOTE Function\nA Breif Overview\nExample\n\n\nThe %BQUOTE Function\nA Breif Overview\n\nThe %BQUOTE macro quoting function allows the macro processor to resolve all macro expressions before quoting the resulting text. It masks the characters that %STR masks without the requirement to mark unmatched quotation marks or parentheses with a % sign. The %BQUOTE function treats all parentheses and quotation marks produced by resolving macro variable references or macro calls as special characters to be masked at execution time. (It does not mask parentheses or quotation marks that are in the argument at compile time.) Therefore, it does not matter whether quotation marks and parentheses in the resolved value are matched. Each one is masked individually.\n\n\n%BQUOTE宏引用函数允许宏处理器在引用结果的文本之前解析所有宏表达式。它掩盖了由%STR掩盖的字符，而无需在不匹配的引号或括号上标记%符号。%BQUOTE函数将解析宏变量引用或宏调用产生的所有括号和引号视为在执行时需要掩盖的特殊字符。（它不会在编译时掩盖参数中的括号或引号。）因此，解析值中的引号和括号是否匹配并不重要。每个引号和括号都会被单独掩盖。\n\nExample\n/在call symputx 给name宏变量赋值的时候，是不会报错的，但是在&name的时候会报错，解决的方法是用%nbquotr或者%str/\n\ndata _null_;\n  set sashelp.class;\n  call symputx('name', \"Feng Zhiyi's House\");\nrun;\n\ndata _null_;\n  %put \"%nbquote(&name)\";\nrun;\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-10-06T22:59:02+08:00",
+    "input_file": {}
+  }
+]
