@@ -6,56 +6,56 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-10-26T08:19:09+08:00"
+      "last_modified": "2023-10-29T16:49:53+08:00"
     },
     {
       "path": "Blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-10-26T08:19:10+08:00"
+      "last_modified": "2023-10-29T16:49:53+08:00"
     },
     {
       "path": "index.html",
       "title": "大智空间",
       "author": [],
       "contents": "\n\n          \n          \n          Home\n          \n          \n          \n          \n          SAS Programer\n           \n          ▾\n          \n          \n          Program\n          TLF\n          SDTM\n          ADaM\n          Other\n          \n          \n          \n          \n          Personal Life\n           \n          ▾\n          \n          \n          WeightLifting\n          Blog\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              大智空间\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            欢迎光临\n            我是一名初级SAS程序员👋，喜欢跑步、举重、冲浪；\n            在这里，我将分享我的工作、学习和日常生活，主要有：\n            SAS、R和Python编程知识分享\n            SDTM和ADaM指导规范和实际运用\n            运动记录\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              大智空间\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       LinkedIn\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              欢迎光临\n              我是一名初级SAS程序员👋，喜欢跑步、举重、冲浪；\n              在这里，我将分享我的工作、学习和日常生活，主要有：\n              SAS、R和Python编程知识分享\n              SDTM和ADaM指导规范和实际运用\n              运动记录\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2023-10-26T08:20:42+08:00"
+      "last_modified": "2023-10-29T16:51:18+08:00"
     },
     {
       "path": "Other.html",
       "title": "Other",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-10-26T08:20:42+08:00"
+      "last_modified": "2023-10-29T16:51:18+08:00"
     },
     {
       "path": "Program.html",
       "title": "Program",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-10-26T08:20:42+08:00"
+      "last_modified": "2023-10-29T16:51:19+08:00"
     },
     {
       "path": "SDTM.html",
       "title": "SDTM",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-10-26T08:20:43+08:00"
+      "last_modified": "2023-10-29T16:51:19+08:00"
     },
     {
       "path": "TLF.html",
       "title": "TLF",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-10-26T08:20:43+08:00"
+      "last_modified": "2023-10-29T16:51:19+08:00"
     },
     {
       "path": "WeightLifting.html",
       "title": "WeightLifting",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-10-26T08:20:43+08:00"
+      "last_modified": "2023-10-29T16:51:20+08:00"
     }
   ],
   "collections": ["Blog/Blog.json", "Other/Other.json", "Program/Program.json", "SDTM/SDTM.json", "TLF/TLF.json", "WeightLifting/WeightLifting.json"]
