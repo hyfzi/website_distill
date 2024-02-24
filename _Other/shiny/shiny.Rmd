@@ -1,0 +1,19 @@
+---
+title: "Linux代码"
+description: 学习Shiny，在阿里云上部署时，会用到的Linux代码
+date: 2024-1-17
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# 本机和服务器连接
+1.打开终端，选择shell，再选择新建远程连接
+2.选择sftp, 输入在阿里云服务器上的用户名和ip地址
+
+# 传输文件
+## 上传文件 
+1.put + 本地文件路径 + 服务器文件路径。如 put Documents/shiny/outliers /srv/shiny-server
+
+# LINUX通用代码
+1.新建文件夹: mkdir + 文件夹名称
